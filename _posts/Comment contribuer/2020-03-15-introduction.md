@@ -8,7 +8,7 @@ short-description: Ce que nous faisons et comment aider
 ---
 
 -----
-**Merci d'avoir ressenti l'envie de contribuer!**
+**Merci d'avoir ressenti l'envie de contribuer!** 
 
 **Vous pouvez aider à tous les niveaux**, voici quelques manières de participer:
 - Vous pouvez vous engager dans la collecte de données
@@ -19,4 +19,4 @@ short-description: Ce que nous faisons et comment aider
 
 Pour le reste, à vous d'inventer la forme que prendra votre contribution!
 
-##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSdiw56eQNGkm5uQt7mlcR32n--J2rwfSgOYpF9eAKThFNv7rA/viewform)
+##### [Contribuer à Data Against Covid-19](https://docs.google.com/forms/d/e/1FAIpQLSeYY2Zdj4E9qmWEbP13YmM_1SmJsa0SSviZwKVnZ87D0Gg41Q/viewform)
